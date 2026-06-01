@@ -1,0 +1,27 @@
+# Rema Dent – Cabinet Stomatologic
+
+> Cabinet stomatologic în Timișoara condus de Dr. Lupastean Rebeca și Dr. Tucu Maria.
+
+## Despre
+
+Rema Dent este o clinică stomatologică privată situată în Timișoara, România.
+Oferă servicii complete de stomatologie: consultații, igienă dentară, implantologie,
+protezetică, ortodonție, estetică dentară, endodonție, pedodonție și parodontologie.
+
+## Contact
+
+- Adresă: Strada Ardealului 2, 300425 Timișoara, Timiș, România
+- Telefon: 0742540666 (Dr. Lupastean Rebeca), 0730285984 (Dr. Tucu Maria)
+- Email: contact@rema-dent.com
+- Program: Luni–Vineri 09:00–17:00
+- Coordonate GPS: 45.73128526193325, 21.181305512424355
+
+## Pagini principale
+
+- / — Pagina principală
+- /despre-noi — Echipa medicală
+- /servicii — Lista completă a serviciilor
+- /galerie — Fotografii cabinet
+- /intrebari-frecvente — FAQ
+- /programari — Programare online
+- /contact — Contact și hartă
